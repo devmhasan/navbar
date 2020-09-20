@@ -1,2 +1,2 @@
 # navbar
-The Ultimate Navbar Collection
+:tada:The Ultimate Navbar Collection:tada:
